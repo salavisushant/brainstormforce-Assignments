@@ -1,6 +1,6 @@
 ## Brainstorm force assignments
 
-## Deployed links
+## Deployed link
 https://bsfassignment.vercel.app/
 
 ## following steps for run application.
