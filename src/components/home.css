@@ -1,0 +1,57 @@
+
+.mainDiv {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.leftDiv {
+    width: 60%;
+    height: 600px;
+    background-color: #F9F9F9;
+}
+
+.rightDiv {
+    width: 40%;
+    height: 600px;
+    background-color: #276EFA;
+}
+
+.inputDiv {
+    margin-left:15%;
+    margin-right:40%;
+    margin-top: 10%;
+    width: 50%;
+    height: 500px;
+}
+
+.heading{
+    font-size:30px;
+    font-weight:700;
+    color:#343434;
+}
+
+.input{
+    margin-top: 5%;
+}
+
+.nextBtn{
+    margin-top: 5%; 
+}
+
+.BsfDiv{
+    margin-top: 25%;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+.headBsf{
+    font-size:3vw;
+    font-weight:500;
+    color: #F2FAFC;
+}
+
+.errFormat{
+    margin-top: 2%;
+    color:#F00E0E;
+}
